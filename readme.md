@@ -1,7 +1,3 @@
-
-
-[![Telegram](https://img.shields.io/badge/telegram-AnonymizerBot-blue.svg)](https://t.me/anonomiserBot)
-
 ## What it does
 
 This bot removes the original author from forwarded messages on Telegram. Send any message, image, sticker, audio, video or document to the bot, and it will send it back to you without the original attribution. When you forward that message, nobody will see who originally sent it.
