@@ -13,7 +13,7 @@ This bot removes the original author from forwarded messages on Telegram. Send a
 You'll need Node.js installed.
 
 ```bash
-git clone temp
+git clone https://github.com/M1txY/anonymizerbot.git
 cd anonymizerbot
 npm install
 ```
